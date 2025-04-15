@@ -1,2 +1,2 @@
-# dio-desafio-reposit-rio
+# dio-desafio-repositório
 Desafio de projeto sobre Git/Github
